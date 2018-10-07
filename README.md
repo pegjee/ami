@@ -4,7 +4,7 @@
 This is in _italic_.
 
 sample code:
-'code code code'
+`code code code`
 
 list
 1. item 1
